@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'FelixWang'
-SITENAME = "FelixWang's Blog"
+AUTHOR = 'warmber'
+SITENAME = "warmber's Blog"
 SITEURL = 'https://csbwang.github.io'
 GITHUB_URL = 'https://github.com/csbwang'
 
